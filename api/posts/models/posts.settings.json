@@ -11,16 +11,16 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Title": {
+    "title": {
       "type": "string"
     },
-    "Content": {
+    "content": {
       "type": "richtext"
     },
-    "Author": {
+    "author": {
       "type": "string"
     },
-    "IsPublished": {
+    "isPublished": {
       "type": "boolean"
     }
   }
